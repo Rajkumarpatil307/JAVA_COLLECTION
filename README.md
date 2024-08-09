@@ -1,1 +1,1 @@
-The java collection framework
+the Collection Framework
